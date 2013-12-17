@@ -1,0 +1,5 @@
+<!ENTITY copytitledescContext.label "Copy Title/Desc">
+<!ENTITY copytitle.label "Copy Page Title (Text)">
+<!ENTITY copydesc.label "Copy Meta Description (Text)">
+<!ENTITY copykeywords.label "Copy Meta Keywords (Text)">
+<!ENTITY copyhtml.label "Copy Title, Desc, Keywords (With HTML)">
